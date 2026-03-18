@@ -1,1 +1,1 @@
-# Signup using Firebase authentication
+SignupScreen -Firebase authentication
